@@ -1,0 +1,6 @@
+## Interface: 40300
+## Title: PlanicHealthSound
+## Author: Callio
+## Version: 1.0
+
+main.lua
